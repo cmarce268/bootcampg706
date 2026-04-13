@@ -17,3 +17,16 @@ Activar el entorno virtual `env312\scripts\activate`
 
 Cuando salen errores se debe habilitar el powerShell `Set-ExecutionPolicy Unrestricted`  para habilitar ejecución de comandos
 `pip list` 
+
+Para activar el entorno ``env312/scripts/activate`` 
+Para ver la lista colocar ``pip list``
+Para desactivar el entorno ``env312/scripts/desactivate`` 
+
+## librerias para python 
+Se actualizan las librerias
+``python.exe -m pip install  --upgrade pip`` 
+``pip install pandas numpy matplotlib``
+pandas- manejo de datos ``pip install pandas``
+numpy - calculo matemático ``pip install numpy``
+matplotlib - graficos ``pip install matplotlib``
+Revisar si todoquedo instalado ``pip list``
