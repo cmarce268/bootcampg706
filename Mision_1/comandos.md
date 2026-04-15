@@ -30,3 +30,7 @@ pandas- manejo de datos ``pip install pandas``
 numpy - calculo matemático ``pip install numpy``
 matplotlib - graficos ``pip install matplotlib``
 Revisar si todoquedo instalado ``pip list``
+Para listas ordenadas pone numeración``<ol>  </ol>``
+Lista dentro del ol ``<li>  <li>``
+Para listas desordenadas pone viñetas  ``<ul>  </ul>``
+Para modificar orden en lineas ``tecla ALT y flechas de direccion arriba o abajo``
