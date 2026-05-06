@@ -1,1 +1,5 @@
-mision_1/env312
+env312/
+venv/
+__pycache__/
+*.pyc
+models/
